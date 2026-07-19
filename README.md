@@ -43,6 +43,15 @@ I love solving real-world problems using Artificial Intelligence, Mobile Apps an
 - 🗄 SQL & Database Management
 - 📱 Mobile App Development
 - 🌐 Web Development
+- ## 📚 Currently Learning
+
+- 📱 Flutter
+- 🎯 Dart
+- 🔥 Firebase
+- 🌿 Git & GitHub
+- 🤖 Artificial Intelligence (AI)
+- 🧠 Machine Learning (ML)
+- 📊 Data Structures & Algorithms
 
 ---
 
