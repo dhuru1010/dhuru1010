@@ -1,16 +1,16 @@
 <!-- Animated Typing -->
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=30&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Dhuru;Computer+Engineering+Student;AI+Developer;Flutter+Developer;Python+Programmer;Open+Source+Learner;Welcome+to+my+GitHub!" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=30&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Dhuru;Computer+Engineering+Student;Python+Developer;AI+Enthusiast;Open+Source+Learner;Welcome+to+my+GitHub!" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Dhuru</h1>
 
 <h3 align="center">
-Computer Engineering Student | AI Enthusiast | Flutter Developer | Open Source Learner
+Computer Engineering Student | Python Developer | AI Enthusiast | Open Source Learner
 </h3>
 
 <p align="center">
-I love solving real-world problems using Artificial Intelligence, Mobile Apps and Modern Technologies.
+Passionate about building software, learning new technologies, and solving real-world problems through programming.
 </p>
 
 ---
@@ -18,32 +18,24 @@ I love solving real-world problems using Artificial Intelligence, Mobile Apps an
 # 👩‍💻 About Me
 
 - 🎓 Diploma in Computer Engineering
-- 🎯 Future B.Tech Computer Engineering Student
-- 🌱 Currently Learning Flutter, AI, ML & Firebase
-- 🤖 Building Blind Buddy (AI Assistant for Visually Impaired)
-- 📚 Developing Smart Study Companion
-- 💻 Passionate about Software Development
-- 🚀 Goal: Become an AI Software Engineer
+- 🎯 Aspiring B.Tech Computer Engineering Student
+- 💻 Passionate about Programming and Software Development
+- 🤖 Building **Blind Buddy** – An AI-powered assistant for visually impaired users
+- 📚 Developing **Smart Study Companion**
+- 🌱 Currently learning Flutter, Dart, Firebase, AI, ML and Git
+- 🚀 Goal: Become an AI & Software Engineer
 
 ---
 
 # 💻 Skills
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=c,cpp,python,java,html,css,mysql,flutter,dart,firebase,git,github,vscode&perline=7"/>
+<img src="https://skillicons.dev/icons?i=c,cpp,python,java,html,css,mysql,vscode&perline=4"/>
 </p>
 
 ---
 
-# 📚 Core Knowledge
-
-- 🤖 Artificial Intelligence
-- 🧠 Machine Learning
-- 📊 Data Structures & Algorithms
-- 🗄 SQL & Database Management
-- 📱 Mobile App Development
-- 🌐 Web Development
-- ## 📚 Currently Learning
+# 📚 Currently Learning
 
 - 📱 Flutter
 - 🎯 Dart
@@ -59,35 +51,51 @@ I love solving real-world problems using Artificial Intelligence, Mobile Apps an
 
 ## 🤖 Blind Buddy
 
-AI-powered assistant for visually impaired users using
+An AI-powered assistant designed to help visually impaired users.
 
-- Flutter
+### Features
+
+- 🎤 Voice Guidance
+- 👁 Object Detection
+- 🔊 Text-to-Speech
+- 📷 OpenCV Camera
+- 🤖 YOLOv8 Object Detection
+
+### Technologies
+
 - Python
 - OpenCV
 - YOLOv8
-- Voice Assistant
+- Flutter *(Currently Learning)*
 
 ---
 
 ## 📚 Smart Study Companion
 
-An intelligent study planner featuring
+A student productivity application.
 
-- Notes
-- Timetable
-- Quiz
-- Pomodoro Timer
-- Smart Reminders
-- AI-powered Learning
+### Features
+
+- 📝 Notes Management
+- 📅 Timetable
+- 📚 Study Planner
+- ⏰ Pomodoro Timer
+- 🔔 Smart Reminders
+- 🧠 AI-powered Learning
+
+### Technologies
+
+- HTML
+- CSS
+- JavaScript
+- Firebase *(Currently Learning)*
 
 ---
 
 # 🏆 GitHub Trophies
 
 <p align="center">
-
 <img src="https://github-profile-trophy.vercel.app/?username=dhuru1010&theme=tokyonight&no-frame=true&row=1&column=6"/>
-
 </p>
 
 ---
@@ -103,9 +111,7 @@ An intelligent study planner featuring
 </p>
 
 <p align="center">
-
 <img src="https://streak-stats.demolab.com?user=dhuru1010&theme=tokyonight"/>
-
 </p>
 
 ---
@@ -114,17 +120,14 @@ An intelligent study planner featuring
 
 <p align="center">
 
-📧 **Email**
+📧 **Email**  
+**dropadakachole@gmail.com**
 
-dropadakachole@gmail.com
-
-📌 **Pinterest**
-
+📌 **Pinterest**  
 https://pin.it/1fcYcurNL
 
-💼 **LinkedIn**
-
-Coming Soon...
+💼 **LinkedIn**  
+*Coming Soon*
 
 </p>
 
@@ -138,9 +141,7 @@ Coming Soon...
 ---
 
 <p align="center">
-
 <img src="https://komarev.com/ghpvc/?username=dhuru1010&label=Profile+Views&color=blueviolet&style=for-the-badge"/>
-
 </p>
 
 ---
