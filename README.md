@@ -120,17 +120,19 @@ A student productivity application.
 
 <p align="center">
 
-📧 **Email**  
-**dropadakachole@gmail.com**
+💼 **LinkedIn**  
+https://www.linkedin.com/in/dropadakachole
+
+💻 **GitHub**  
+https://github.com/dhuru1010
 
 📌 **Pinterest**  
 https://pin.it/1fcYcurNL
 
-💼 **LinkedIn**  
-*Coming Soon*
+📧 **Email**  
+dropadakachole@gmail.com
 
 </p>
-
 ---
 
 # 🏅 Coding Profiles
