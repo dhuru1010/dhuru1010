@@ -3,14 +3,13 @@
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=30&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Dhuru;Computer+Engineering+Student;Python+Developer;AI+Enthusiast;Open+Source+Learner;Welcome+to+my+GitHub!" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Dhuru</h1>
-
-<h3 align="center">
-Computer Engineering Student | Python Developer | AI Enthusiast | Open Source Learner
-</h3>
+<h1 align="center">Hi there 👋, I'm Dropada Kachole</h1>
 
 <p align="center">
-Passionate about building software, learning new technologies, and solving real-world problems through programming.
+🎓 Computer Engineering Student <br>
+💻 Passionate about Software Development <br>
+🤖 Learning Artificial Intelligence & Machine Learning <br>
+🚀 Building real-world projects and improving my programming skills
 </p>
 
 ---
