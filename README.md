@@ -44,7 +44,12 @@ Passionate about building software, learning new technologies, and solving real-
 - 🤖 Artificial Intelligence (AI)
 - 🧠 Machine Learning (ML)
 - 📊 Data Structures & Algorithms
+# 🎯 Current Focus
 
+- 💻 Building Real-World Projects
+- 🤖 Learning Artificial Intelligence & Machine Learning
+- 📱 Exploring Flutter Development
+- 🌱 Improving Programming Skills
 ---
 
 # 🚀 Featured Projects
