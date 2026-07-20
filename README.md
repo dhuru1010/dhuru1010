@@ -19,11 +19,11 @@
 - 🎓 Diploma in Computer Engineering
 - 🎯 Aspiring B.Tech Computer Engineering Student
 - 💻 Passionate about Programming and Software Development
-- 🤖 Building **Blind Buddy** – An AI-powered assistant for visually impaired users
-- 📚 Developing **Smart Study Companion**
-- 🌱 Currently learning Flutter, Dart, Firebase, AI, ML and Git
+- 🚀 Currently developing **Blind Buddy** – An AI-powered assistant for visually impaired users
+- 📚 Developed **Smart Study Companion** – A student productivity and study management application
+- 🌱 Currently learning Flutter, Dart, Firebase, AI, ML, and Git
+- 🎨 I also enjoy drawing and creating digital art
 - 🚀 Goal: Become an AI & Software Engineer
-
 ---
 
 # 💻 Skills
